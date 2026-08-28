@@ -273,11 +273,11 @@ def ch_send_webhook(val0:str):
       "title": f"Username: `{val0}` is available :white_check_mark:.",
       "timestamp": str(datetime.datetime.utcnow()),
       "footer": {
-        "text": "github.com/suenerve/Discord-Username-Checker"
+        "text": "github.com/lawiis/lrp.git"
       },
       "author": {
         "name": "DSV - Username Found",
-        "url": "https://github.com/suenerve/Discord-Username-Checker",
+        "url": "https://github.com/lawiis/lrp.git",
         "icon_url": "https://cdn-icons-png.flaticon.com/512/5290/5290982.png"
       },
       "thumbnail": {
