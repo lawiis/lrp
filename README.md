@@ -6,7 +6,7 @@
 
 [![Author](https://img.shields.io/badge/author-lawiis-blueviolet?style=for-the-badge)](https://guns.lol/7yor)
 [![GitHub](https://img.shields.io/badge/GitHub-lawiis-181717?style=for-the-badge&logo=github)](https://github.com/lawiis)
-[![Version](https://img.shields.io/badge/versionLRP%201.9-yellow?style=for-the-badge)](#)
+[![Version](https://img.shields.io/badge/version-LRP%201.9-yellow?style=for-the-badge)](#)
 [![Python](https://img.shields.io/badge/python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![License](https://img.shields.io/badge/license-Non--Commercial-red?style=for-the-badge)](#license)
 
