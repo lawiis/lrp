@@ -17,7 +17,7 @@ import datetime
 from configparser import ConfigParser
 import sys
 init(autoreset=True)
-__version__ = "Author: lawiis DSV 1.9"
+__version__ = "Author: lawiis LRP 1.9"
 __guns__= "https://guns.lol/7yor"
 dir_path = os.path.dirname(os.path.realpath(__file__))
 configur = ConfigParser()
