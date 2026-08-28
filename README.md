@@ -42,7 +42,7 @@
 ## 📦 Requirements
 
 ```bash
-pip install requests colorama
+pip install requests coloram discord
 ```
 
 Python 3.8+ recommended.
